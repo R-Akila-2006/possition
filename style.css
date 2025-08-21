@@ -2,7 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
-}
+}   
 
 .con{
     height: 200vh;
@@ -25,4 +25,19 @@
     position: sticky;
     top: 10px;
 
+}
+.ak{
+    width: 100px;
+    height: 100px;
+   
+}
+.pot{
+    height: 40px;
+    width: 40px;
+    background-color: mediumturquoise;
+    border-radius: 30px;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    
 }
