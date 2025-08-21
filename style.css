@@ -41,3 +41,23 @@
     left: 50px;
     
 }
+.pot:hover{
+    height: 24px;
+    width: 24px;
+    color: blue;
+}
+.btn{
+    height: 100x;
+    width: 100px;
+    padding: 10px 30px;
+    background-color: mediumseagreen;
+    color: white;
+    border: none;
+    margin: 10px 10px;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+.btn:hover{
+    padding: 17px 40px;
+
+}

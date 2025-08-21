@@ -1,0 +1,14 @@
+@keyframes potter{
+    from{
+        width: 100px;
+    }
+    to{
+        width: 200px;
+    }
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: mediumorchid;
+    animation: potter 1s infinite alternate;
+}
